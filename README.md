@@ -51,4 +51,4 @@ I welcome contributions from the community to improve the system's accuracy, exp
 - Consider integrating additional sensors or data sources for a more robust posture detection system.
 
 ## Contact
-For further inquiries or to discuss potential collaborations, please reach out to Pranit Sehgal at [insert contact information].
+For further inquiries or to discuss potential collaborations, please reach out to Pranit Sehgal at pranitsehgal@gmail.com.
